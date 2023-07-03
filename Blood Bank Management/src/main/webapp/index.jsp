@@ -25,8 +25,8 @@ input[type="text"], input[type="mail"]
 </div>
 
 <div style="max-width:100%">
-  <img class="mySlides"  src="slide1.jpg" >
-  <img class="mySlides"  src="slide2.png" >
+  <img class="mySlides"  src="blood1.jpg" >
+  <img class="mySlides"  src="blood3.png" >
 </div>
 <script>
 var myIndex = 0;
